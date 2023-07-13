@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
-*main: prints "Programming is like building a multilingual puzzle
-*description value of 'main': Return: 0 if exited properly
-*/
+ *main - Main function of my project
+ *
+ *
+ *Return: return 0 everytime
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
