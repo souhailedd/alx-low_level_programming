@@ -1,11 +1,10 @@
 #include <stdio.h>
 
-
 /**
- *main: prints "Programming is like building a multilingual puzzle
+ *main - Main function of my project
  *
  *
- *description value of 'main': Return: 0 if exited properly
+ *Return: return 0 everytime
  */
 int main(void)
 {
