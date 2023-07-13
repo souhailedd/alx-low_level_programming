@@ -1,7 +1,9 @@
 #include <stdio.h>
-/**
+/*
  *description found for function main
  *dffsd
+ *
+ *description found for return value of 'main'
 */
 int main(void)
 {
