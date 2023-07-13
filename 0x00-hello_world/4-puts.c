@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  *main: prints "Programming is like building a multilingual puzzle
  *description for return value of 'main': Return: 0 if exited properly
 */
